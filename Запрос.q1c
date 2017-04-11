@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Валюты">
+		<text>ВЫБРАТЬ
+	Валюты.Ссылка КАК Ссылка
+ИЗ
+	Справочник.Валюты КАК Валюты
+</text>
+	</query>
+</querylist>
